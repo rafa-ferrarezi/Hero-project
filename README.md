@@ -20,6 +20,6 @@ Segue abaixo o link do curso caso queria aprender algo. Na época foi gratuito e
 
 [RocketSeat OmniStack11 https://rocketseat.com.br/week/aulas/11.0](https://rocketseat.com.br/week/aulas/11.0 "Semana OmniStack 11")
 
-by:Rafael Ferrarezi
+by: **Rafael Ferrarezi**
 
 ![alt text](https://github.com/rafa-ferrarezi/Hero-project/blob/master/frontend/src/assets/heroes.png "Heroes")
