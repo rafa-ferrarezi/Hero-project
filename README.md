@@ -1,4 +1,4 @@
-[logo]: https://github.com/rafa-ferrarezi/Hero-project/blob/master/frontend/src/assets/heroes.png "Be The Hero Logo"
+[logo]: https://github.com/rafa-ferrarezi/Hero-project/blob/master/frontend/src/assets/logo.svg "Be The Hero Logo"
 #Projet: Be The Hero 
 
 Projeto feito na semana OmniStack 11 em março 2020, curso pela Rocketseat.
