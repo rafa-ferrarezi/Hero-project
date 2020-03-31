@@ -2,6 +2,7 @@
 # Projeto: Be The Hero 
 
 Projeto feito na semana OmniStack 11 em março 2020, curso pela Rocketseat.
+O App consistem em cadastrar ONGs e listar casos que precisam de ajuda, isso na plataforma web. Porém no app para celular é para listar todos casos(incidentes) que precisam de ajuda, e assim a pessoa entrar em contato com a ONG para auxiliar.
 
 ## Estudo:
 
