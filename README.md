@@ -1,5 +1,5 @@
 ![alt text](https://github.com/rafa-ferrarezi/Hero-project/blob/master/frontend/src/assets/logo.svg "Be The Hero Logo")
-# Projet: Be The Hero 
+# Projeto: Be The Hero 
 
 Projeto feito na semana OmniStack 11 em março 2020, curso pela Rocketseat.
 
@@ -18,7 +18,7 @@ Nesse projeto o intuito foi estudar um pouco mais sobre stack de Node.JS, React.
 ### Referencias:
 Segue abaixo o link do curso caso queria aprender algo. Na época foi gratuito e aberto.
 
-[RocketSeat OmniStack11](https://rocketseat.com.br/week/aulas/11.0 "Semana OmniStack 11")
+[RocketSeat OmniStack11 https://rocketseat.com.br/week/aulas/11.0](https://rocketseat.com.br/week/aulas/11.0 "Semana OmniStack 11")
 
 by:Rafael Ferrarezi
 
